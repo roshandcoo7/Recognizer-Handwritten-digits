@@ -1,1 +1,1 @@
-# Recognizer-Handwritten-digits
+# Recognizer-digits
